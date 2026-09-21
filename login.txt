@@ -1,2 +1,0 @@
-THIS IS A LOGIN FILE FOR AUTHENTICATION.
-This file is modifyed by me.
